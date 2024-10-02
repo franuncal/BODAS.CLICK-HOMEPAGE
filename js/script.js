@@ -21,3 +21,9 @@ window.onclick = function (event) {
     document.querySelector(".modal-content").classList.remove("show");
   }
 };
+
+document
+  .getElementById("ver-plantillas")
+  .addEventListener("click", function () {
+    window.location.href = "plantilla/index.html"; // Redirige al archivo de la plantilla
+  });
