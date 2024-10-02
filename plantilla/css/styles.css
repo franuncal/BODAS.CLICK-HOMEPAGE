@@ -79,6 +79,7 @@ header .logo {
   color: #836363;
   font-size: 1.5rem;
   font-weight: 500;
+  cursor: pointer;
 }
 
 header nav {

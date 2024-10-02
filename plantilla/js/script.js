@@ -136,3 +136,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   };
 });
+
+document.getElementById("home").addEventListener("click", function () {
+  window.location.href = "/index.html"; // Redirige al archivo de la plantilla
+});

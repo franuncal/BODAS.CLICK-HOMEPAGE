@@ -25,5 +25,5 @@ window.onclick = function (event) {
 document
   .getElementById("ver-plantillas")
   .addEventListener("click", function () {
-    window.location.href = "plantilla/index.html"; // Redirige al archivo de la plantilla
+    window.location.href = "plantilla/indexB.html"; // Redirige al archivo de la plantilla
   });
